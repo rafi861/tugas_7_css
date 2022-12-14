@@ -1,0 +1,23 @@
+body{
+  background-image: url("stupa_borobudur.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p.justify{
+  width: 500px;
+  height: 500px;
+  border: 2px solid red;
+  margin: 0 auto;
+  text-align: justify;
+  background-image: url("avocado.jpg");
+}
+
+div.repeat{
+  width: 500px;
+  height: 250px;
+  border: 2px solid red;
+  margin: 0 auto;
+  background-image: url("avocado.jpg");
+  background-repeat: repeat-x;
+}
